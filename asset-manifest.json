@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Certification-Project.git/static/css/main.6ec62a2f.css",
-    "main.js": "/React-Certification-Project.git/static/js/main.9d5b7c0c.js",
-    "static/js/787.fec251dd.chunk.js": "/React-Certification-Project.git/static/js/787.fec251dd.chunk.js",
-    "index.html": "/React-Certification-Project.git/index.html",
-    "main.6ec62a2f.css.map": "/React-Certification-Project.git/static/css/main.6ec62a2f.css.map",
-    "main.9d5b7c0c.js.map": "/React-Certification-Project.git/static/js/main.9d5b7c0c.js.map",
-    "787.fec251dd.chunk.js.map": "/React-Certification-Project.git/static/js/787.fec251dd.chunk.js.map"
+    "main.css": "/React-Certification-Project/static/css/main.6ec62a2f.css",
+    "main.js": "/React-Certification-Project/static/js/main.e4a2ac30.js",
+    "static/js/787.fec251dd.chunk.js": "/React-Certification-Project/static/js/787.fec251dd.chunk.js",
+    "index.html": "/React-Certification-Project/index.html",
+    "main.6ec62a2f.css.map": "/React-Certification-Project/static/css/main.6ec62a2f.css.map",
+    "main.e4a2ac30.js.map": "/React-Certification-Project/static/js/main.e4a2ac30.js.map",
+    "787.fec251dd.chunk.js.map": "/React-Certification-Project/static/js/787.fec251dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ec62a2f.css",
-    "static/js/main.9d5b7c0c.js"
+    "static/js/main.e4a2ac30.js"
   ]
 }
